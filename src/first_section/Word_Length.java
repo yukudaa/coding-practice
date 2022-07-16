@@ -5,6 +5,7 @@ import java.util.Scanner;
 public class Word_Length {
 
     public static int[] solution(String str, char t) {
+
         int[] answer = new int[str.length()];
         int p = 1000;
         for (int i = 0; i < str.length(); i++) {
