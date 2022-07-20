@@ -24,7 +24,6 @@ public class Change_Specific_word {
 
         }
         answer = String.valueOf(s);
-
         return answer;
     }
 
