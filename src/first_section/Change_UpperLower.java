@@ -18,7 +18,6 @@ public class Change_UpperLower {
             }
         }
 
-
         return answer;
     }
 
