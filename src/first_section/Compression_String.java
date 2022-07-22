@@ -20,7 +20,6 @@ public class Compression_String {
                 cnt = 1;
             }
         }
-
         return answer;
     }
 
