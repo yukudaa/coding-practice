@@ -15,6 +15,7 @@ public class Find_message {
                 answer++;
             }
         }
+
         return answer;
     }
 
