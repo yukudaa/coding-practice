@@ -15,7 +15,6 @@ public class Find_Word_in_sentence {
                 max = len;
                 answer = a;
             }
-
         }
 
         return answer;
