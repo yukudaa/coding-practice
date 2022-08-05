@@ -19,6 +19,7 @@ public class Find_message {
         return answer;
     }
 
+
     public static void main(String[] args) {
 
         Scanner scanner = new Scanner(System.in);
