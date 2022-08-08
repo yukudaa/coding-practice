@@ -20,6 +20,7 @@ public class Find_Word_in_sentence {
         return answer;
     }
 
+
     public static void main(String[] args) {
 
         Scanner sc = new Scanner(System.in);
