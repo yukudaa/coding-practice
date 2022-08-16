@@ -14,7 +14,6 @@ public class Security {
             str = str.substring(7);
         }
 
-
         return answer;
     }
 
