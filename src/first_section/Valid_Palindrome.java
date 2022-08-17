@@ -11,7 +11,6 @@ public class Valid_Palindrome {
         if(str.equals(tmp)) {
             answer = "YES";
         }
-
         return answer;
     }
 
