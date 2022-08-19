@@ -15,7 +15,6 @@ public class Return_Big_number {
                 answer.add(num2[i]);
             }
         }
-
         return answer;
     }
 
